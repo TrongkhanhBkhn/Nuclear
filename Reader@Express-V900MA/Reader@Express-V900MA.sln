@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reader@Express-V900MA", "Reader@Express-V900MA\Reader@Express-V900MA.csproj", "{4688090C-EF0D-4218-8758-88AB6667F3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4688090C-EF0D-4218-8758-88AB6667F3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4688090C-EF0D-4218-8758-88AB6667F3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4688090C-EF0D-4218-8758-88AB6667F3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4688090C-EF0D-4218-8758-88AB6667F3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

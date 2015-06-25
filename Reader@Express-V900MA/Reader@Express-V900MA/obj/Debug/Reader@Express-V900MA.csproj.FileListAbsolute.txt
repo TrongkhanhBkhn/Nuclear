@@ -1,0 +1,10 @@
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\bin\Debug\Reader@Express-V900MA.exe.config
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\bin\Debug\Reader@Express-V900MA.exe
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\bin\Debug\Reader@Express-V900MA.pdb
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\obj\Debug\Reader@Express-V900MA.csprojResolveAssemblyReference.cache
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\obj\Debug\Reader_Express_V900MA.Properties.Resources.resources
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\obj\Debug\Reader@Express-V900MA.csproj.GenerateResource.Cache
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\obj\Debug\Reader@Express-V900MA.exe
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\obj\Debug\Reader@Express-V900MA.pdb
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\obj\Debug\Reader_Express_V900MA.MainForm.resources
+E:\PROJECT\C#\Reader@Express-V900MA\Reader@Express-V900MA\bin\Debug\MySql.Data.dll
